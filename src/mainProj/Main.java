@@ -39,6 +39,7 @@ public class Main {
         });
         System.out.println("title");
         System.out.println("locally - example for rebase");
+        System.out.println("remote-expl. for rebase");
     }
 
 }
